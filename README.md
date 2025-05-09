@@ -1,6 +1,7 @@
 # 🧹 Layoff Data Cleaning with SQL
 
-![Before Data Cleaning](images/layoff_table_before.png)
+![Layoff Table 1](https://github.com/user-attachments/assets/d989bdf5-74a5-4221-bbd6-c94e54cbccbf)
+
 <p align="center"><i>Layoff Table 1 – Before Cleaning</i></p>
 
 ## 📄 Project Overview
@@ -38,16 +39,17 @@ The original data had issues including:
 
 ---
 
-![After Data Cleaning](images/layoff_table_after.png)
+![Layoff Final Table](https://github.com/user-attachments/assets/75f019b2-b627-401a-8b20-ccb458839ba1)
+
 <p align="center"><i>Layoff Final – After Cleaning</i></p>
 
 ---
 
 ## 📁 Files Included
 
-- LAYOFF DATA CLEANING.sql – full cleaning script
+- LAYOFF DATA CLEANING.sql – SQL Full Script
 - More Querying Layoffs.sql – additional queries for data exploration
-- Screenshot folder – before and after images
+- Screenshot – before and after images
 
 ---
 
